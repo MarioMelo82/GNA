@@ -30,9 +30,9 @@ int main( ){
 	int n, qtd;
 	printf("\nInforme uma Semente (SE): ");
 	scanf("%d",&n);
-	printf("Qnt de números aleatórios: ");
+	printf("Qnt de nÃºmeros aleatÃ³rios: ");
 	scanf("%d",&qtd);
-	system("cls");
+	//system("cls");
 	Congruencial(n, qtd);
 
 	return 0;	 
