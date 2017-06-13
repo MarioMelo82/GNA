@@ -2,9 +2,9 @@
 #include<stdlib.h>
 #include<math.h>
 #include<locale.h>
-const int a = 34;
-const int b = 91;
-const int m = 78;
+const int a = 34; //multiplicador
+const int b = 91; //somador
+const int m = 78; //mod
 int Congruencial(int num, int qtd){
 	int /*a = 34, b = 91, m = 78,*/ x, aux;
 	puts("\n          **GNA-CONGRUENCIAL**");
