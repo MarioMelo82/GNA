@@ -1,0 +1,2 @@
+# GNA
+Método Congruencial
